@@ -1,0 +1,22 @@
+h1 {
+    color: red;
+}
+
+// Navigation Styles
+.nav-item {
+    text-decoration: none;
+    display: inline;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+.nav-item:hover {
+    cursor: pointer;
+}
+.nav-list {
+    padding: 0;
+}
+.header-logo {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
